@@ -151,7 +151,7 @@ Gem::Specification.new do |s|
       s.add_development_dependency(%q<rspec>, [">= 2.0.0"])
       s.add_development_dependency(%q<httpclient>, [">= 2.1.5.2"])
       s.add_development_dependency(%q<patron>, [">= 0.4.9"])
-      s.add_development_dependency(%q<em-http-request>, [">= 0.2.14"])
+      s.add_development_dependency(%q<em-http-request>, [">= 1.0.0.beta.1"])
       s.add_development_dependency(%q<curb>, [">= 0.7.8"])
     else
       s.add_dependency(%q<addressable>, [">= 2.2.2"])
